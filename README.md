@@ -1,4 +1,4 @@
-# Student Management System (
+# Student Management System 
 
 This is a simple Java-based **Student Management System** built for learning and demonstration purposes. It runs on the console and allows basic operations like adding, viewing, searching, and deleting student records.
 
@@ -21,5 +21,5 @@ This is a simple Java-based **Student Management System** built for learning and
 ## 🏃 How to Run
 
 ### 1. Clone the Repository:
-```bash
-git clone https://github.com/<your-username>/Java-Student-Management-System.git
+```bas
+git clone https://github.com/Akshayj2804/Java-Student-Management-System.git
